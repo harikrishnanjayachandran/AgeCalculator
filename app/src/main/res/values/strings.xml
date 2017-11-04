@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Age Calculator</string>
+    <string name="enter_your_age_in_number">Enter your age in number</string>
+    <string name="see_the_magic">See the Magic!</string>
+    <string name="age">Age</string>
+
+</resources>
